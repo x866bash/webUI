@@ -282,7 +282,7 @@ Create `.env.local` for custom configuration:
 ```env
 # App Configuration
 VITE_APP_TITLE="Website UI"
-VITE_APP_DESCRIPTION="Naruto/Boruto Themed Web Application"
+VITE_APP_DESCRIPTION="Character Themed Web Application"
 
 # Animation Settings
 VITE_FIRE_DURATION=3000
@@ -307,7 +307,7 @@ colors: {
 }
 ```
 
-#### Animations (src/styles/animations.css)
+#### Kalo mau di edit Animations (src/styles/animations.css)
 ```css
 /* Custom animation duration */
 .fire-animation {
