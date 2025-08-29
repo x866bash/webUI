@@ -370,7 +370,7 @@ pnpm add -D rollup-plugin-visualizer
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/x866bash/webUI?tab=MIT-1-ov-file) file for details.
 
 ## 🙏 Acknowledgments
 
