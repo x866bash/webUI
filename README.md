@@ -383,8 +383,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - **Issues**: [GitHub Issues](https://github.com/x866bash/webUI/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/x866bash/webUI/discussions)
-- **Email**: x866bash.github@zohomail.com
-
+- **Email**: [Email](x866bash.github@zohomail.com)
 ---
 
 **Made with ❤️  Create by [x866bash]**
