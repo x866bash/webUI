@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## 🙏 Acknowledgments
 
-- **Naruto/Boruto** - Character inspiration and themes
+- **Character** - Character inspiration and themes
 - **Shadcn/UI** - Beautiful UI component library
 - **Tailwind CSS** - Utility-first CSS framework
 - **Vite** - Fast build tool and development server
