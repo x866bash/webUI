@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="https://public-frontend-cos.metadl.com/mgx/img/favicon.png" type="image/png">
+  <title>Website UI</title>
+  <meta name="description" content="Amazing Website UI with Fire Animations" />
+  <meta name="author" content="MGX" />
+
+  <meta property="og:title" content="Website UI" />
+  <meta property="og:description" content="Amazing Website UI with Fire Animations" />
+  <meta property="og:type" content="website" />
+
+  <style>
+    /* Additional CSS for fire entrance/exit animations */
+    .animate-fireEntrance {
+      animation: fireEntrance 3s ease-out forwards;
+    }
+    
+    .animate-fireExit {
+      animation: fireExit 2s ease-in forwards;
+    }
+    
+    @keyframes fireEntrance {
+      0% {
+        clip-path: circle(0% at 50% 50%);
+      }
+      100% {
+        clip-path: circle(150% at 50% 50%);
+      }
+    }
+    
+    @keyframes fireExit {
+      0% {
+        clip-path: circle(150% at 50% 50%);
+      }
+      100% {
+        clip-path: circle(0% at 50% 50%);
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <div id="root"></div>
+  <script type="module" src="/src/main.tsx"></script>
+</body>
+
+</html>
